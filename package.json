@@ -1,0 +1,21 @@
+{
+  "name": "votify",
+  "version": "0.0.1",
+  "description": "blockchain based voting system",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0"
+  }
+}
